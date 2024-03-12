@@ -18,10 +18,10 @@ npm run build
 To properly run the tests & see them in this case, watch mode is recommended.
 
 
-* ```sh
+```sh
 npm run testw # watch mode
 ```
-* Select the tests you want to run by pressing `a` and then `Enter`.
+Select the tests you want to run by pressing `a` and then `Enter`.
 
 
 ## How to run coverage
